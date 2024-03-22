@@ -171,6 +171,7 @@ export const mentorshipTeam = [
 				year: 2023,
 				keyword: 'mentee',
 				role: 'Mentee',
+				offers: ['Microsoft', 'MongoDB', 'Bank of America'],
 			},
 			{
 				year: 2024,
@@ -190,6 +191,7 @@ export const mentorshipTeam = [
 				year: 2023,
 				keyword: 'mentee',
 				role: 'Mentee',
+				offers: ['LinkedIn', 'Proofpoint'],
 			},
 			{
 				year: 2024,
@@ -209,6 +211,7 @@ export const mentorshipTeam = [
 				year: 2023,
 				keyword: 'mentee',
 				role: 'Mentee',
+				offers: ['DoorDash', 'Wayfair'],
 			},
 			{
 				year: 2024,
@@ -228,6 +231,7 @@ export const mentorshipTeam = [
 				year: 2023,
 				keyword: 'mentee',
 				role: 'Mentee',
+				offers: ['ServiceNow', 'Lilly'],
 			},
 			{
 				year: 2024,
@@ -247,6 +251,7 @@ export const mentorshipTeam = [
 				year: 2023,
 				keyword: 'mentee',
 				role: 'Mentee',
+				offers: ['Adobe', 'Amazon'],
 			},
 			{
 				year: 2024,
@@ -266,6 +271,7 @@ export const mentorshipTeam = [
 				year: 2023,
 				keyword: 'mentee',
 				role: 'Mentee',
+				offers: ['Meta', 'ServiceNow', 'Niantic'],
 			},
 			{
 				year: 2024,
@@ -285,6 +291,7 @@ export const mentorshipTeam = [
 				year: 2023,
 				keyword: 'mentee',
 				role: 'Mentee',
+				offers: ['SAP'],
 			},
 			{
 				year: 2024,
@@ -304,6 +311,7 @@ export const mentorshipTeam = [
 				year: 2023,
 				keyword: 'mentee',
 				role: 'Mentee',
+				offers: ['GoDaddy'],
 			},
 			{
 				year: 2024,
@@ -323,6 +331,7 @@ export const mentorshipTeam = [
 				year: 2023,
 				keyword: 'mentee',
 				role: 'Mentee',
+				offers: ['Meta', 'ServiceNow', 'Matson Money'],
 			},
 			{
 				year: 2024,
