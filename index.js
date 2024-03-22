@@ -378,4 +378,18 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Khang Huu Nguyen',
+		title: 'Student @ University of Massachusetts Amherst',
+		hobbies: 'J-pop, gaming, anime',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711089916/viettech/huukhang.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	}
 ];
