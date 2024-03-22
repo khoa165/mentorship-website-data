@@ -393,4 +393,19 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Hoang Nguyen',
+		title: 'Student @ MacEwan University',
+		hobbies: 'indie, k-drama, solo travel',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711129348/viettech/hoang.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+
 ];
