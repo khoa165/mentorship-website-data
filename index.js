@@ -407,5 +407,19 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Tri Hoang',
+		title: 'Student @ Rice University',
+		hobbies: 'sports, traveling, movies',
+		avatar:
+			'https://media.licdn.com/dms/image/D5603AQF5LL8vfFVCeA/profile-displayphoto-shrink_800_800/0/1673899385327?e=1716422400&v=beta&t=Qt6TBUSZYog4gCCS8fBu5pjqfYYgG8ad7mETHw1y-ss',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
 
 ];
