@@ -1,3 +1,3 @@
 khoa165/khoa-blogs:
   - source: index.js
-    dest: src/index.js
+    dest: src/people/index.js
