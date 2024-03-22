@@ -124,6 +124,7 @@ export const mentorshipTeam = [
 				year: 2023,
 				keyword: 'mentee',
 				role: 'Mentee',
+				offers: ['Amazon', 'Wayfair', 'BNY Mellon'],
 			},
 			{
 				year: 2024,
