@@ -257,7 +257,7 @@ export const mentorshipTeam = [
 	},
 	{
 		name: 'Phuoc Ong',
-		title: '[Incoming] SWE Intern @ ServiceNow',
+		title: '[Incoming] SWE Intern @ Meta',
 		hobbies: 'gym, food, dog',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/phuoc.jpg',
@@ -314,7 +314,7 @@ export const mentorshipTeam = [
 	},
 	{
 		name: 'Quan Le',
-		title: '[Incoming] SWE Intern @ Matson Money',
+		title: '[Incoming] SWE Intern @ Meta',
 		hobbies: 'cosplay, board games, music',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/minhquan.jpg',
