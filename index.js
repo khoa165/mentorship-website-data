@@ -115,7 +115,7 @@ export const mentorshipTeam = [
 	},
 	{
 		name: 'Jenny Quach',
-		title: '[Incoming] SWE Intern @ Wayfair',
+		title: '[Incoming] SWE Intern @ Amazon',
 		hobbies: 'board games, anime, food',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/jenny.jpg',
