@@ -398,7 +398,7 @@ export const mentorshipTeam = [
 		title: 'Student @ MacEwan University',
 		hobbies: 'indie, k-drama, solo travel',
 		avatar:
-			'https://media.licdn.com/dms/image/C5603AQGO2moVyTeDGw/profile-displayphoto-shrink_800_800/0/1663516819482?e=1716422400&v=beta&t=-O10yd2dMzTq57Z6q1x90HjlMuXm2kCRJ30iKD5saY4',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711129348/viettech/hoang.jpg',
 		term: [
 			{
 				year: 2024,
