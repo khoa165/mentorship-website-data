@@ -407,5 +407,19 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Thuc Anh Hoang',
+		title: 'Student @ Lehigh University',
+		hobbies: 'cooking, movies, embroidery',
+		avatar:
+			'https://media.licdn.com/dms/image/D4E35AQHqlUfJLVaDtg/profile-framedphoto-shrink_400_400/0/1700171062467?e=1711738800&v=beta&t=OQXidF-13uoRHthQljMDqtOP1doFOdjDZlM-5yeoeyA',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	}
 
 ];
