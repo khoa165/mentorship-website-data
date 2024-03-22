@@ -308,7 +308,7 @@ export const mentorshipTeam = [
 			{
 				year: 2024,
 				keyword: 'mentor',
-				role: 'Assistant',
+				role: 'Mentor',
 			},
 		],
 	},
@@ -327,7 +327,7 @@ export const mentorshipTeam = [
 			{
 				year: 2024,
 				keyword: 'mentor',
-				role: 'Assistant',
+				role: 'Mentor',
 			},
 		],
 	},
