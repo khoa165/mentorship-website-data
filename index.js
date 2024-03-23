@@ -435,5 +435,19 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Jimmy Khang Nguyen',
+		title: 'Student @ York University',
+		hobbies: 'ice-skating, MUN, skywatching',
+		avatar:
+			'https://media.licdn.com/dms/image/D5603AQHnqrBM0rFa6Q/profile-displayphoto-shrink_800_800/0/1693887692254?e=1716422400&v=beta&t=CrdTDwXDTutw0_pNDozEoCzry72p7LwA-WaplVeAEHA',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
 
 ];
