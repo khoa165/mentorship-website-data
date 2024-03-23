@@ -426,7 +426,7 @@ export const mentorshipTeam = [
 		title: 'Student @ Texas Christian University',
 		hobbies: 'sports, video game, rap',
 		avatar:
-			'https://media.licdn.com/dms/image/D5603AQGtCK4urouUOQ/profile-displayphoto-shrink_800_800/0/1695397487862?e=1716422400&v=beta&t=Ssy_wfae7oAak8399Vj24RJcT_W8GKSh4XqsNiNqSAo',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711170436/viettech/long.jpg',
 		term: [
 			{
 				year: 2024,
