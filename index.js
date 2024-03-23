@@ -421,5 +421,19 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Long Dau',
+		title: 'Student @ Texas Christian University',
+		hobbies: 'sports, video game, rap',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711170436/viettech/long.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
 
 ];
