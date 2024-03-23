@@ -435,5 +435,18 @@ export const mentorshipTeam = [
 			},
 		],
 	},
-
+	{
+		name: 'Thang Huu Nguyen',
+		title: 'Student @ Toronto Metropolitan University',
+		hobbies: 'badminton, basketball, video game',
+		avatar:
+			'https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/423236657_7445987612132433_5015346403116089380_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dq9sE8bhcZsAX9vcnpb&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBBGDgrxjUn601qDJ5ywlyRIowEoaNWYTSPyptmW_y8PA&oe=66034766',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	}
 ];
