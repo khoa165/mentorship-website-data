@@ -440,7 +440,7 @@ export const mentorshipTeam = [
 		title: 'Student @ Toronto Metropolitan University',
 		hobbies: 'badminton, basketball, video game',
 		avatar:
-			'https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/423236657_7445987612132433_5015346403116089380_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dq9sE8bhcZsAX9vcnpb&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBBGDgrxjUn601qDJ5ywlyRIowEoaNWYTSPyptmW_y8PA&oe=66034766',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711261900/viettech/thang.jpg',
 		term: [
 			{
 				year: 2024,
