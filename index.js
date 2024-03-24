@@ -413,6 +413,20 @@ export const mentorshipTeam = [
 		hobbies: 'Kpop, cooking, japanese books',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711262026/viettech/giang.jpg',
+    term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+  {
+		name: 'Tri Hoang',
+		title: 'Student @ Rice University',
+		hobbies: 'sports, traveling, movies',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711131353/viettech/tri.jpg',
 		term: [
 			{
 				year: 2024,
@@ -421,5 +435,32 @@ export const mentorshipTeam = [
 			},
 		],
 	},
-
+	{
+		name: 'Long Dau',
+		title: 'Student @ Texas Christian University',
+		hobbies: 'sports, video game, rap',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711170436/viettech/long.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{
+		name: 'Nam Nguyen',
+		title: 'Student @ Michigan State University',
+		hobbies: 'soccer, One Piece, piano',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711261963/viettech/nam.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
 ];
