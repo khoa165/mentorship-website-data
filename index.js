@@ -440,7 +440,7 @@ export const mentorshipTeam = [
 		title: 'Student @ Michigan State University',
 		hobbies: 'soccer, One Piece, piano',
 		avatar:
-			'https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/284963953_1066754384239361_4395731606776286602_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=j7BEteQLQ20AX9JldOk&_nc_ht=scontent-ord5-2.xx&oh=00_AfCRiZmVSsYVx-fccnhABlpQDRGyI1WetqoLvgM-yBLsZg&oe=66048FD2',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711261963/viettech/nam.jpg',
 		term: [
 			{
 				year: 2024,
