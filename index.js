@@ -449,4 +449,18 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Phuong Le',
+		title: 'Student @ Denison University',
+		hobbies: 'films, novels, pop ballad',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711262168/viettech/phuongle.jpg',
+		term: [
+			{
+				year: 2024,
+                keyword: 'mentee',
+                role: 'Mentee',
+            },
+        ],
+	},
 ];
