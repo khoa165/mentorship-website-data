@@ -435,5 +435,18 @@ export const mentorshipTeam = [
 			},
 		],
 	},
-
+	{
+		name: 'Nam Nguyen',
+		title: 'Student @ Michigan State University',
+		hobbies: 'soccer, One Piece, piano',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711261963/viettech/nam.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
 ];
