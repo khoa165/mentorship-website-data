@@ -412,7 +412,7 @@ export const mentorshipTeam = [
 		title: 'Student @ Colby College',
 		hobbies: 'Kpop, cooking, japanese books',
 		avatar:
-			'https://scontent.fman2-1.fna.fbcdn.net/v/t39.30808-6/269677226_1349384122150058_5399863847506458060_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=A6VibfuVTWIAX9CmDUi&_nc_ht=scontent.fman2-1.fna&oh=00_AfDk68mpuR07R8PHvbhtIb7vEJIDU0W6zJYT9Le7Bv3-mg&oe=6603B1B2',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711262026/viettech/giang.jpg',
 		term: [
 			{
 				year: 2024,
