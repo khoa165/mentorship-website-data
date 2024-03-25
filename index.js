@@ -454,7 +454,7 @@ export const mentorshipTeam = [
 		title: 'Student @ University of Windsor',
 		hobbies: 'sports, soccer games, movies',
 		avatar:
-			'https://media.licdn.com/dms/image/D4E03AQESjDwVvONH-Q/profile-displayphoto-shrink_800_800/0/1711248677283?e=1717027200&v=beta&t=TKHFPXWynkrYUwCJpQSyENPdgA5SK_s6fOOwyMMClDI',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711341359/viettech/quy.jpg',
 		term: [
 			{
 				year: 2024,
