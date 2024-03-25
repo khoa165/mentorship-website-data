@@ -408,6 +408,20 @@ export const mentorshipTeam = [
 		],
 	},
 	{
+		name: 'Giang Pham',
+		title: 'Student @ Colby College',
+		hobbies: 'Kpop, cooking, japanese books',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711262026/viettech/giang.jpg',
+    term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+  {
 		name: 'Tri Hoang',
 		title: 'Student @ Rice University',
 		hobbies: 'sports, traveling, movies',
