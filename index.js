@@ -2,7 +2,7 @@ export const mentorshipTeam = [
 	{
 		name: 'Khoa Le',
 		title: 'Software Engineer @ Vanta',
-		hobbies: 'boardgames, chess, reality shows',
+		hobbies: 'board games, chess, reality shows',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/q_100/v1577895922/portfolio/avatar.jpg',
 		term: [
@@ -19,7 +19,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Huy Anh',
+		name: 'Anh Nguyen',
 		title: 'Software Engineer @ Netflix',
 		hobbies: 'cats, startups, capybara',
 		avatar:
@@ -76,7 +76,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Thu Anh',
+		name: 'Anh Pham',
 		title: 'Software Engineer @ Mastercard',
 		hobbies: 'reading, writing, corgi',
 		avatar:
