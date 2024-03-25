@@ -477,4 +477,18 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Ba Quan Nguyen',
+		title: 'Student @ University of South Florida',
+		hobbies: 'photography, fishing, guitar',
+		avatar:
+			'https://media.licdn.com/dms/image/D5603AQG8Nr7CksPZDA/profile-displayphoto-shrink_800_800/0/1686503647642?e=1717027200&v=beta&t=Vb5dXHMaqzXElXy7ZjIA-6xIwOi9jhZJRDGSZrRVkS0',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	}
 ];
