@@ -380,7 +380,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Khang Huu Nguyen',
+		name: 'Khang Nguyen',
 		title: 'Student @ University of Massachusetts Amherst',
 		hobbies: 'J-pop, gaming, anime',
 		avatar:
@@ -413,7 +413,7 @@ export const mentorshipTeam = [
 		hobbies: 'Kpop, cooking, japanese books',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711262026/viettech/giang.jpg',
-    term: [
+		term: [
 			{
 				year: 2024,
 				keyword: 'mentee',
@@ -421,7 +421,7 @@ export const mentorshipTeam = [
 			},
 		],
 	},
-  {
+	{
 		name: 'Tri Hoang',
 		title: 'Student @ Rice University',
 		hobbies: 'sports, traveling, movies',
