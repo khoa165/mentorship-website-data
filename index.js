@@ -2,7 +2,7 @@ export const mentorshipTeam = [
 	{
 		name: 'Khoa Le',
 		title: 'Software Engineer @ Vanta',
-		hobbies: 'boardgames, chess, reality shows',
+		hobbies: 'board games, chess, reality shows',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/q_100/v1577895922/portfolio/avatar.jpg',
 		term: [
@@ -19,7 +19,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Huy Anh',
+		name: 'Anh Nguyen',
 		title: 'Software Engineer @ Netflix',
 		hobbies: 'cats, startups, capybara',
 		avatar:
@@ -76,7 +76,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Thu Anh',
+		name: 'Anh Pham',
 		title: 'Software Engineer @ Mastercard',
 		hobbies: 'reading, writing, corgi',
 		avatar:
@@ -380,7 +380,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Khang Huu Nguyen',
+		name: 'Khang Nguyen',
 		title: 'Student @ University of Massachusetts Amherst',
 		hobbies: 'J-pop, gaming, anime',
 		avatar:
@@ -399,6 +399,20 @@ export const mentorshipTeam = [
 		hobbies: 'indie, k-drama, solo travel',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711129348/viettech/hoang.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{
+		name: 'Giang Pham',
+		title: 'Student @ Colby College',
+		hobbies: 'Kpop, cooking, japanese books',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711262026/viettech/giang.jpg',
 		term: [
 			{
 				year: 2024,
@@ -435,12 +449,27 @@ export const mentorshipTeam = [
 			},
 		],
 	},
-	{
-		name: 'Thang Huu Nguyen',
+  {
+  	name: 'Thang Huu Nguyen',
 		title: 'Student @ Toronto Metropolitan University',
 		hobbies: 'badminton, basketball, video game',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711261900/viettech/thang.jpg',
+    term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+  },
+	{
+		name: 'Nam Nguyen',
+		title: 'Student @ Michigan State University',
+		hobbies: 'soccer, One Piece, piano',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711261963/viettech/nam.jpg',
+
 		term: [
 			{
 				year: 2024,
@@ -448,5 +477,5 @@ export const mentorshipTeam = [
 				role: 'Mentee',
 			},
 		],
-	}
+	},
 ];
