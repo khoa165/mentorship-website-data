@@ -520,4 +520,19 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+        {
+                name: 'Quynh Tran',
+                title: 'Student @ DePauw University',
+                hobbies: 'cats, K-pop, travel',
+                avatar:
+                        'https://drive.google.com/file/d/1aEGm3N0dFqTYSbEty1ZSVpetgDAgqzlI/view',
+                term: [
+                        {
+                                year: 2024,
+                                keyword: 'mentee',
+                                role: 'Mentee',
+                        },
+                ],
+        },
+
 ];
