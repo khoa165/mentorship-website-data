@@ -477,4 +477,18 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Quy Nguyen',
+		title: 'Student @ University of Windsor',
+		hobbies: 'sports, soccer games, movies',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711341359/viettech/quy.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
 ];
