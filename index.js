@@ -482,7 +482,7 @@ export const mentorshipTeam = [
 		title: 'Student @ Soka University',
 		hobbies: 'kdrama, tarot, drums',
 		avatar:
-			'https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/421931135_2303236513400599_8307592178484973266_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PUZ_IZDdh5YAX_xgZGr&_nc_ht=scontent-lax3-1.xx&oh=00_AfAgeZxiR4yW9GXqhVgZM7tx3TmcBPb5QNLUMrYedh0lig&oe=660717A8',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711420611/viettech/van.jpg',
 		term: [
 			{
 				year: 2024,
