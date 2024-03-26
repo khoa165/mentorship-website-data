@@ -506,4 +506,18 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Van Nguyen',
+		title: 'Student @ Soka University',
+		hobbies: 'kdrama, tarot, drums',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711420611/viettech/van.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
 ];
