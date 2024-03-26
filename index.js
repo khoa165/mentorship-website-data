@@ -449,20 +449,20 @@ export const mentorshipTeam = [
 			},
 		],
 	},
-  {
-  	name: 'Thang Huu Nguyen',
+	{
+		name: 'Thang Nguyen',
 		title: 'Student @ Toronto Metropolitan University',
 		hobbies: 'badminton, basketball, video game',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711261900/viettech/thang.jpg',
-    term: [
+		term: [
 			{
 				year: 2024,
 				keyword: 'mentee',
 				role: 'Mentee',
 			},
 		],
-  },
+	},
 	{
 		name: 'Phuong Le',
 		title: 'Student @ Denison University',
@@ -472,10 +472,10 @@ export const mentorshipTeam = [
 		term: [
 			{
 				year: 2024,
-                keyword: 'mentee',
-                role: 'Mentee',
-            },
-        ],
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
 	},
 	{
 		name: 'Nam Nguyen',
