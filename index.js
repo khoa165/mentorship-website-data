@@ -2,7 +2,7 @@ export const mentorshipTeam = [
 	{
 		name: 'Khoa Le',
 		title: 'Software Engineer @ Vanta',
-		hobbies: 'boardgames, chess, reality shows',
+		hobbies: 'board games, chess, reality shows',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/q_100/v1577895922/portfolio/avatar.jpg',
 		term: [
@@ -19,7 +19,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Huy Anh',
+		name: 'Anh Nguyen',
 		title: 'Software Engineer @ Netflix',
 		hobbies: 'cats, startups, capybara',
 		avatar:
@@ -76,7 +76,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Thu Anh',
+		name: 'Anh Pham',
 		title: 'Software Engineer @ Mastercard',
 		hobbies: 'reading, writing, corgi',
 		avatar:
@@ -380,7 +380,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Khang Huu Nguyen',
+		name: 'Khang Nguyen',
 		title: 'Student @ University of Massachusetts Amherst',
 		hobbies: 'J-pop, gaming, anime',
 		avatar:
@@ -399,6 +399,20 @@ export const mentorshipTeam = [
 		hobbies: 'indie, k-drama, solo travel',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711129348/viettech/hoang.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{
+		name: 'Giang Pham',
+		title: 'Student @ Colby College',
+		hobbies: 'Kpop, cooking, japanese books',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711262026/viettech/giang.jpg',
 		term: [
 			{
 				year: 2024,
@@ -441,6 +455,13 @@ export const mentorshipTeam = [
 		hobbies: 'ice-skating, MUN, skywatching',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711290737/viettech/phuckhang.jpg',
+  },
+  {
+		name: 'Thang Nguyen',
+		title: 'Student @ Toronto Metropolitan University',
+		hobbies: 'badminton, basketball, video game',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711261900/viettech/thang.jpg',
 		term: [
 			{
 				year: 2024,
@@ -449,5 +470,60 @@ export const mentorshipTeam = [
 			},
 		],
 	},
-
+	{
+		name: 'Phuong Le',
+		title: 'Student @ Denison University',
+		hobbies: 'films, novels, pop ballad',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711262168/viettech/phuongle.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{
+		name: 'Nam Nguyen',
+		title: 'Student @ Michigan State University',
+		hobbies: 'soccer, One Piece, piano',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711261963/viettech/nam.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{
+		name: 'Quy Nguyen',
+		title: 'Student @ University of Windsor',
+		hobbies: 'sports, soccer games, movies',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711341359/viettech/quy.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{
+		name: 'Van Nguyen',
+		title: 'Student @ Soka University',
+		hobbies: 'kdrama, tarot, drums',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711420611/viettech/van.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
 ];
