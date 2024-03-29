@@ -527,6 +527,20 @@ export const mentorshipTeam = [
 		],
 	},
 	{
+		name: 'Trang Do',
+		title: 'Student @ Northeastern University',
+		hobbies: 'kdrama, cooking, Vpop',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711671186/viettech/trangdo.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{	
 		name: 'Ba Quan Nguyen',
 		title: 'Student @ University of South Florida',
 		hobbies: 'guitar, photography, fishing',
@@ -539,5 +553,5 @@ export const mentorshipTeam = [
 				role: 'Mentee',
 			},
 		],
-	}
+	},
 ];
