@@ -520,4 +520,18 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Ba Quan Nguyen',
+		title: 'Student @ University of South Florida',
+		hobbies: 'guitar, photography, fishing',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711432601/viettech/baquan.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	}
 ];
