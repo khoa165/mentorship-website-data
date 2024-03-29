@@ -580,7 +580,7 @@ export const mentorshipTeam = [
 		title: 'Student @ University of Massachusetts Amherst',
 		hobbies: 'keyboard, music, League',
 		avatar:
-			'https://media.licdn.com/dms/image/D5603AQEQxW6OPnynAw/profile-displayphoto-shrink_800_800/0/1694660537111?e=1717027200&v=beta&t=BmSowseHRahw1IkGJXaGEf0HIK0YNI_dgJ-C4nU1gu4',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711685228/viettech/hung.jpg',
 		term: [
 			{
 				year: 2024,
