@@ -380,11 +380,39 @@ export const mentorshipTeam = [
 		],
 	},
 	{
+		name: 'Giang Pham',
+		title: 'Student @ Colby College',
+		hobbies: 'Kpop, cooking, japanese books',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711262026/viettech/giang.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{
 		name: 'Khang Nguyen',
 		title: 'Student @ University of Massachusetts Amherst',
 		hobbies: 'J-pop, gaming, anime',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711089916/viettech/huukhang.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{
+		name: 'Ally Hoang',
+		title: 'Student @ Lehigh University',
+		hobbies: 'cooking, embroidery, travel',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711170325/viettech/thucanh.jpg',
 		term: [
 			{
 				year: 2024,
@@ -408,11 +436,11 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Giang Pham',
-		title: 'Student @ Colby College',
-		hobbies: 'Kpop, cooking, japanese books',
+		name: 'Phuong Le',
+		title: 'Student @ Denison University',
+		hobbies: 'films, novels, pop ballad',
 		avatar:
-			'https://res.cloudinary.com/khoa165/image/upload/v1711262026/viettech/giang.jpg',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711262168/viettech/phuongle.jpg',
 		term: [
 			{
 				year: 2024,
@@ -436,6 +464,20 @@ export const mentorshipTeam = [
 		],
 	},
 	{
+		name: 'Van Nguyen',
+		title: 'Student @ Soka University',
+		hobbies: 'kdrama, tarot, drums',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711420611/viettech/van.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{
 		name: 'Long Dau',
 		title: 'Student @ Texas Christian University',
 		hobbies: 'sports, video game, rap',
@@ -450,7 +492,21 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Jimmy Khang Nguyen',
+		name: 'Trang Do',
+		title: 'Student @ Northeastern University',
+		hobbies: 'kdrama, cooking, Vpop',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711671186/viettech/trangdo.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{
+		name: 'Jimmy Nguyen',
 		title: 'Student @ York University',
 		hobbies: 'ice-skating, MUN, skywatching',
 		avatar:
@@ -469,20 +525,6 @@ export const mentorshipTeam = [
 		hobbies: 'badminton, basketball, video game',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711261900/viettech/thang.jpg',
-		term: [
-			{
-				year: 2024,
-				keyword: 'mentee',
-				role: 'Mentee',
-			},
-		],
-	},
-	{
-		name: 'Phuong Le',
-		title: 'Student @ Denison University',
-		hobbies: 'films, novels, pop ballad',
-		avatar:
-			'https://res.cloudinary.com/khoa165/image/upload/v1711262168/viettech/phuongle.jpg',
 		term: [
 			{
 				year: 2024,
@@ -520,53 +562,11 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Van Nguyen',
-		title: 'Student @ Soka University',
-		hobbies: 'kdrama, tarot, drums',
-		avatar:
-			'https://res.cloudinary.com/khoa165/image/upload/v1711420611/viettech/van.jpg',
-		term: [
-			{
-				year: 2024,
-				keyword: 'mentee',
-				role: 'Mentee',
-			},
-		],
-	},
-	{
-		name: 'Trang Do',
-		title: 'Student @ Northeastern University',
-		hobbies: 'kdrama, cooking, Vpop',
-		avatar:
-			'https://res.cloudinary.com/khoa165/image/upload/v1711671186/viettech/trangdo.jpg',
-		term: [
-			{
-				year: 2024,
-				keyword: 'mentee',
-				role: 'Mentee',
-			},
-		],
-	},
-	{
-		name: 'Ba Quan Nguyen',
+		name: 'Quan Nguyen',
 		title: 'Student @ University of South Florida',
 		hobbies: 'guitar, photography, fishing',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711432601/viettech/baquan.jpg',
-		term: [
-			{
-				year: 2024,
-				keyword: 'mentee',
-				role: 'Mentee',
-			},
-		],
-	},
-	{
-		name: 'Ally Hoang',
-		title: 'Student @ Lehigh University',
-		hobbies: 'cooking, embroidery, travel',
-		avatar:
-			'https://res.cloudinary.com/khoa165/image/upload/v1711170325/viettech/thucanh.jpg',
 		term: [
 			{
 				year: 2024,
