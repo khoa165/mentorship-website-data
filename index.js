@@ -575,4 +575,18 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Hung Ngo',
+		title: 'Student @ University of Massachusetts Amherst',
+		hobbies: 'keyboard, music, League',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711685228/viettech/hung.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
 ];
