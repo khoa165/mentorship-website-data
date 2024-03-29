@@ -455,6 +455,13 @@ export const mentorshipTeam = [
 		hobbies: 'ice-skating, MUN, skywatching',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711290737/viettech/phuckhang.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
 	},
 	{
 		name: 'Thang Nguyen',
