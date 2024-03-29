@@ -589,4 +589,18 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Hai Anh',
+		title: 'Student @ Fordham University',
+		hobbies: 'walking, bike riding, road trip',
+		avatar:
+			'https://www.linkedin.com/in/hennessy-nguyen-18a8a8163/',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
 ];
