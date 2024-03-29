@@ -450,6 +450,13 @@ export const mentorshipTeam = [
 		],
 	},
 	{
+		name: 'Jimmy Khang Nguyen',
+		title: 'Student @ York University',
+		hobbies: 'ice-skating, MUN, skywatching',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711290737/viettech/phuckhang.jpg',
+  },
+  {
 		name: 'Thang Nguyen',
 		title: 'Student @ Toronto Metropolitan University',
 		hobbies: 'badminton, basketball, video game',
@@ -483,7 +490,6 @@ export const mentorshipTeam = [
 		hobbies: 'soccer, One Piece, piano',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711261963/viettech/nam.jpg',
-
 		term: [
 			{
 				year: 2024,
