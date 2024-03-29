@@ -412,7 +412,7 @@ export const mentorshipTeam = [
 		title: 'Student @ Lehigh University',
 		hobbies: 'cooking, movies, embroidery',
 		avatar:
-			'https://media.licdn.com/dms/image/D5603AQH2Aj6cQnMKZA/profile-displayphoto-shrink_400_400/0/1685277382078?e=1716422400&v=beta&t=xz_Qdq1CYO6YAgv8xGG0422OewtsS67-r8olOXXFXDo',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711170325/viettech/thucanh.jpg',
 		term: [
 			{
 				year: 2024,
