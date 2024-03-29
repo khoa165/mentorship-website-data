@@ -407,7 +407,7 @@ export const mentorshipTeam = [
 			},
 		],
 	},
-	{
+  {
 		name: 'Giang Pham',
 		title: 'Student @ Colby College',
 		hobbies: 'Kpop, cooking, japanese books',
@@ -554,4 +554,20 @@ export const mentorshipTeam = [
 			},
 		],
 	},
-];
+  {	
+		name: 'Ally Hoang',
+		title: 'Student @ Lehigh University',
+		hobbies: 'cooking, embroidery, travel',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711170325/viettech/thucanh.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+ ];
+  
+  
