@@ -525,7 +525,7 @@ export const mentorshipTeam = [
 		title: 'Student @ Northeastern University',
 		hobbies: 'kdrama, cooking, Vpop',
 		avatar:
-			'https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/429639869_2872044069617974_3096388539110800346_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nMEwZnl4EMQAX__tk5V&_nc_ht=scontent-bos5-1.xx&oh=00_AfCdNvl07tPVtqL-FlTYEOGhW3GSgOyIGt4jEl-uXrINiA&oe=660964C7',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711671186/viettech/trangdo.jpg',
 		term: [
 			{
 				year: 2024,
