@@ -720,7 +720,7 @@ export const mentorshipTeam = [
     title: 'Student @ Bucknell University',
     hobbies: 'soccer, mountains, dogs',
     avatar:
-      'https://media.licdn.com/dms/image/D4E03AQGDdd3d5HJUqQ/profile-displayphoto-shrink_800_800/0/1705200945901?e=1717027200&v=beta&t=ly_GGpVICKGgTY0wxbaKOsSWwcnqX_0JQS900Mfia5U',
+      'https://res.cloudinary.com/khoa165/image/upload/v1711832950/viettech/vytran.jpg',
     term: [
       {
         year: 2024,
