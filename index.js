@@ -688,6 +688,20 @@ export const mentorshipTeam = [
     ],
   },
   {
+    name: 'Vien Nguyen',
+    title: 'Student @ University of South Florida',
+    hobbies: 'fencing, table tennis, travelling',
+    avatar:
+      'https://res.cloudinary.com/khoa165/image/upload/v1711819446/viettech/vien.jpg',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+      },
+    ],
+  },
+  {
     name: 'Linh Hoang',
     title: 'Student @ Dickinson College',
     hobbies: 'music, dumb tv shows, sunbathing',
