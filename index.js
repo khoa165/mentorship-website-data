@@ -618,7 +618,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Duy kha Tran',
+		name: 'Kha Tran',
 		title: 'Student @ University of Manitoba',
 		hobbies: 'coding, reading, gaming',
 		avatar:
