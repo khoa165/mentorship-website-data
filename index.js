@@ -606,9 +606,9 @@ export const mentorshipTeam = [
 	{
 		name: 'Vy Nguyen',
 		title: 'Student @ Catholic University of America',
-		hobbies: 'Music, cooking, travel',
+		hobbies: 'music, cooking, travel',
 		avatar:
-			'https://drive.google.com/file/d/1OxDKkXQtmnqiWUw8SZg50gYTtSL8pk4K/view?usp=sharing',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711778695/viettech/vynguyen.jpg',
 		term: [
 			{
 				year: 2024,
