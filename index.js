@@ -20,7 +20,7 @@ export const mentorshipTeam = [
 	},
 	{
 		name: 'Huy Anh',
-		title: 'Software Engineer @ Netflix',
+		title: '[Incoming] Software Engineer @ Netflix',
 		hobbies: 'cats, startups, capybara',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711083192/viettech/huyanh.jpg',
