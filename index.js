@@ -1,5 +1,5 @@
-export const mentorshipTeam = [
-  {
+export const mentorshipTeam = {
+  khoale: {
     name: 'Khoa Le',
     title: 'Software Engineer @ Vanta',
     hobbies: 'board games, chess, reality shows',
@@ -18,7 +18,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  huyanh: {
     name: 'Huy Anh',
     title: '[Incoming] Software Engineer @ Netflix',
     hobbies: 'cats, startups, capybara',
@@ -37,7 +37,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  chanle: {
     name: 'Chan Le',
     title: 'Viet Tech Founder',
     hobbies: 'real estate, real estate, real estate',
@@ -56,7 +56,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  nguyenvu: {
     name: 'Nguyen Vu',
     title: 'Software Engineer @ Mastercard',
     hobbies: 'hiking, nature, cooking',
@@ -75,7 +75,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  thuanh: {
     name: 'Thu Anh',
     title: 'Software Engineer @ Mastercard',
     hobbies: 'reading, writing, corgi',
@@ -94,7 +94,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  kevinluu: {
     name: 'Kevin Luu',
     title: 'Software Engineer @ Anyscale',
     hobbies: 'travel, pickle ball, badminton',
@@ -113,7 +113,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  jennyquach: {
     name: 'Jenny Quach',
     title: '[Incoming] SWE Intern @ LinkedIn',
     hobbies: 'board games, anime, food',
@@ -133,7 +133,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  sonmac: {
     name: 'Son Mac',
     title: 'Software Engineer @ Vanta',
     hobbies: 'frontend, cats, travel',
@@ -147,7 +147,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  nickdoan: {
     name: 'Nick Doan',
     title: '[Incoming] Software Engineer @ Palantir',
     hobbies: 'coding, running, games',
@@ -161,7 +161,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  phuocong: {
     name: 'Phuoc Ong',
     title: '[Incoming] SWE Intern @ Meta',
     hobbies: 'gym, food, dog',
@@ -181,7 +181,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  robinhoang: {
     name: 'Robin Hoang',
     title: '[Incoming] SWE Intern @ Microsoft',
     hobbies: 'solo trip, pole dance, beach',
@@ -201,7 +201,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  quanle: {
     name: 'Quan Le',
     title: '[Incoming] SWE Intern @ Meta',
     hobbies: 'cosplay, board games, music',
@@ -221,7 +221,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  phuongcao: {
     name: 'Phuong Cao',
     title: '[Incoming] SWE Intern @ Adobe',
     hobbies: 'pekking duck, anime, music',
@@ -241,7 +241,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  khuetang: {
     name: 'Khue Tang',
     title: '[Incoming] SWE Intern @ LinkedIn',
     hobbies: 'pekking duck, cooking, hiking',
@@ -261,7 +261,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  ngocdoan: {
     name: 'Ngoc Doan',
     title: '[Incoming] SWE Intern @ DoorDash',
     hobbies: 'road trip, food, concert',
@@ -281,7 +281,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  dangpham: {
     name: 'Dang Pham',
     title: '[Incoming] SWE Intern @ ServiceNow',
     hobbies: 'reading, writing, gaming',
@@ -301,7 +301,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  hieuvuong: {
     name: 'Hieu Vuong',
     title: 'SWE Intern @ SAP',
     hobbies: 'karaoke, beauty salon, travel',
@@ -321,7 +321,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  cuongnguyen: {
     name: 'Cuong Nguyen',
     title: '[Incoming] SWE Intern @ GoDaddy',
     hobbies: 'board games, PC games, anime',
@@ -341,7 +341,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  trangvu: {
     name: 'Trang Vu',
     title: 'Student @ York University',
     hobbies: 'board games, K-drama, flowers',
@@ -360,7 +360,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  thanhnguyen: {
     name: 'Thanh Nguyen',
     title: 'Student @ University of British Columbia',
     hobbies: 'beach, solo travel, writing',
@@ -379,7 +379,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  giangpham: {
     name: 'Giang Pham',
     title: 'Student @ Colby College',
     hobbies: 'Kpop, cooking, japanese books',
@@ -393,7 +393,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  khangnguyen: {
     name: 'Khang Nguyen',
     title: 'Student @ University of Massachusetts Amherst',
     hobbies: 'J-pop, gaming, anime',
@@ -407,7 +407,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  allyhoang: {
     name: 'Ally Hoang',
     title: 'Student @ Lehigh University',
     hobbies: 'cooking, embroidery, travel',
@@ -421,7 +421,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  hoangnguyen: {
     name: 'Hoang Nguyen',
     title: 'Student @ MacEwan University',
     hobbies: 'indie, k-drama, solo travel',
@@ -435,7 +435,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  phuongle: {
     name: 'Phuong Le',
     title: 'Student @ Denison University',
     hobbies: 'films, novels, pop ballad',
@@ -449,7 +449,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  trihoang: {
     name: 'Tri Hoang',
     title: 'Student @ Rice University',
     hobbies: 'sports, traveling, movies',
@@ -463,7 +463,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  vannguyen: {
     name: 'Van Nguyen',
     title: 'Student @ Soka University',
     hobbies: 'kdrama, tarot, drums',
@@ -477,7 +477,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  longdau: {
     name: 'Long Dau',
     title: 'Student @ Texas Christian University',
     hobbies: 'sports, video game, rap',
@@ -491,7 +491,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  trangdo: {
     name: 'Trang Do',
     title: 'Student @ Northeastern University',
     hobbies: 'kdrama, cooking, Vpop',
@@ -505,7 +505,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  jimmynguyen: {
     name: 'Jimmy Nguyen',
     title: 'Student @ York University',
     hobbies: 'ice-skating, MUN, skywatching',
@@ -519,7 +519,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  ngocanh: {
     name: 'Ngoc Anh',
     title: 'Student @ Mount Holyoke College',
     hobbies: 'cooking, Chinese dramas, dogs',
@@ -533,7 +533,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  thangnguyen: {
     name: 'Thang Nguyen',
     title: 'Student @ Toronto Metropolitan University',
     hobbies: 'badminton, basketball, video game',
@@ -547,7 +547,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  quynhtran: {
     name: 'Quynh Tran',
     title: 'Student @ DePauw University',
     hobbies: 'cats, K-pop, travel',
@@ -561,7 +561,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  namnguyen: {
     name: 'Nam Nguyen',
     title: 'Student @ Michigan State University',
     hobbies: 'soccer, One Piece, piano',
@@ -575,7 +575,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  vynguyen: {
     name: 'Vy Nguyen',
     title: 'Student @ Catholic University of America',
     hobbies: 'music, cooking, travel',
@@ -589,7 +589,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  quynguyen: {
     name: 'Quy Nguyen',
     title: 'Student @ University of Windsor',
     hobbies: 'sports, soccer games, movies',
@@ -603,7 +603,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  haianh: {
     name: 'Hai Anh',
     title: 'Student @ Fordham University',
     hobbies: 'walking, bike riding, road trip',
@@ -617,7 +617,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  quannguyen: {
     name: 'Quan Nguyen',
     title: 'Student @ University of South Florida',
     hobbies: 'guitar, photography, fishing',
@@ -631,7 +631,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  linhnguyen: {
     name: 'Linh Nguyen',
     title: 'Student @ Tufts University',
     hobbies: 'food, music, roller coaster',
@@ -645,7 +645,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  hungngo: {
     name: 'Hung Ngo',
     title: 'Student @ University of Massachusetts Amherst',
     hobbies: 'keyboard, music, League',
@@ -659,7 +659,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  linhhoang: {
     name: 'Linh Hoang',
     title: 'Student @ Dickinson College',
     hobbies: 'music, dumb tv shows, sunbathing',
@@ -673,7 +673,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  khatran: {
     name: 'Kha Tran',
     title: 'Student @ University of Manitoba',
     hobbies: 'coding, reading, gaming',
@@ -687,7 +687,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  phananh: {
     name: 'Phan Anh',
     title: 'Student @ DePauw University',
     hobbies: 'soccer, running, coding',
@@ -701,7 +701,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  viennguyen: {
     name: 'Vien Nguyen',
     title: 'Student @ University of South Florida',
     hobbies: 'fencing, table tennis, travelling',
@@ -715,7 +715,7 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
+  vytran: {
     name: 'Vy Tran',
     title: 'Student @ Bucknell University',
     hobbies: 'soccer, mountains, dogs',
@@ -729,4 +729,4 @@ export const mentorshipTeam = [
       },
     ],
   },
-]
+}
