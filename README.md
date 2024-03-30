@@ -2,6 +2,8 @@
 
 Instructions:
 
+- Don't clone this repo, instead, fork this repo, clone the forked repo
+- Create a branch before making changes
 - If you already have an entry for your profile, update it.
 - Otherwise, create an entry at the end of the file index.js
 - Fill in your name
