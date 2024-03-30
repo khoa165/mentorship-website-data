@@ -664,7 +664,7 @@ export const mentorshipTeam = [
     title: 'Student @ DePauw University',
     hobbies: 'soccer, running, coding',
     avatar:
-      'https://media.licdn.com/dms/image/D4E03AQE4C5jGIxipAQ/profile-displayphoto-shrink_800_800/0/1709013332796?e=1717027200&v=beta&t=GHFmPDy9SmSJDQImxei8bQ8WSQHq24zFl6OBqdvbBHo',
+      'https://res.cloudinary.com/khoa165/image/upload/v1711815305/viettech/phananh.jpg',
     term: [
       {
         year: 2024,
