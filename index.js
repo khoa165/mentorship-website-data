@@ -604,6 +604,20 @@ export const mentorshipTeam = [
     ],
   },
   {
+    name: 'Hai Anh',
+    title: 'Student @ Fordham University',
+    hobbies: 'walking, bike riding, road trip',
+    avatar:
+      'https://res.cloudinary.com/khoa165/image/upload/v1711768766/viettech/haianh.jpg',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+      },
+    ],
+  },
+  {
     name: 'Quan Nguyen',
     title: 'Student @ University of South Florida',
     hobbies: 'guitar, photography, fishing',
