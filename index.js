@@ -664,7 +664,7 @@ export const mentorshipTeam = [
     title: 'Student @ University of Manitoba',
     hobbies: 'coding, reading, gaming',
     avatar:
-      'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/placeholder.jpg',
+      'https://res.cloudinary.com/khoa165/image/upload/v1711823667/viettech/kha.jpg',
     term: [
       {
         year: 2024,
