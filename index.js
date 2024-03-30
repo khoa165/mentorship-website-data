@@ -9,7 +9,7 @@ export const mentorshipTeam = [
 			{
 				year: 2023,
 				keyword: 'mentor',
-				role: 'Mentor',
+				role: 'Program Lead / Mentor',
 			},
 			{
 				year: 2024,
