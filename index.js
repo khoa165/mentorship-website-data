@@ -692,7 +692,7 @@ export const mentorshipTeam = [
     title: 'Student @ University of South Florida',
     hobbies: 'Fencing, table tennis, travelling',
     avatar:
-      'https://media.licdn.com/dms/image/D4D03AQFtTFeQ82PChA/profile-displayphoto-shrink_800_800/0/1695135628848?e=1717027200&v=beta&t=r4i7BAQaMqpvjjNjCTCDoNJQ7Q5IcCmrRnLDcWaR96s',
+      'https://res.cloudinary.com/khoa165/image/upload/v1711819446/viettech/vien.jpg',
     term: [
       {
         year: 2024,
