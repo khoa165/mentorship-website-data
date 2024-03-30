@@ -589,4 +589,17 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Ngoc Anh',
+		title: 'Student @ Mount Holyoke College',
+		hobbies: 'cooking, Chinese dramas, dogs',
+		avatar: 'https://media.licdn.com/dms/image/D4E03AQHWz6PWjdvY3w/profile-displayphoto-shrink_800_800/0/1702911782868?e=1717027200&v=beta&t=cDK2ZY8OBmUrRA6EWH7AABECwR3z-jE78dVenfFTa9I',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	}
 ];
