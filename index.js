@@ -690,7 +690,7 @@ export const mentorshipTeam = [
   {
     name: 'Vien Nguyen',
     title: 'Student @ University of South Florida',
-    hobbies: 'Fencing, table tennis, travelling',
+    hobbies: 'fencing, table tennis, travelling',
     avatar:
       'https://res.cloudinary.com/khoa165/image/upload/v1711819446/viettech/vien.jpg',
     term: [
