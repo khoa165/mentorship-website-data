@@ -19,7 +19,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Anh Nguyen',
+		name: 'Huy Anh',
 		title: 'Software Engineer @ Netflix',
 		hobbies: 'cats, startups, capybara',
 		avatar:
@@ -76,7 +76,7 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Anh Pham',
+		name: 'Thu Anh',
 		title: 'Software Engineer @ Mastercard',
 		hobbies: 'reading, writing, corgi',
 		avatar:
@@ -520,6 +520,19 @@ export const mentorshipTeam = [
 		],
 	},
 	{
+		name: 'Ngoc Anh',
+		title: 'Student @ Mount Holyoke College',
+		hobbies: 'cooking, Chinese dramas, dogs',
+		avatar: 'https://res.cloudinary.com/khoa165/image/upload/v1711769961/viettech/ngocanh.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	}
+	{
 		name: 'Thang Nguyen',
 		title: 'Student @ Toronto Metropolitan University',
 		hobbies: 'badminton, basketball, video game',
@@ -589,17 +602,4 @@ export const mentorshipTeam = [
 			},
 		],
 	},
-	{
-		name: 'Ngoc Anh',
-		title: 'Student @ Mount Holyoke College',
-		hobbies: 'cooking, Chinese dramas, dogs',
-		avatar: 'https://res.cloudinary.com/khoa165/image/upload/v1711769961/viettech/ngocanh.jpg',
-		term: [
-			{
-				year: 2024,
-				keyword: 'mentee',
-				role: 'Mentee',
-			},
-		],
-	}
 ];
