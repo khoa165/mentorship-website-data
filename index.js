@@ -593,7 +593,7 @@ export const mentorshipTeam = [
 		name: 'Ngoc Anh',
 		title: 'Student @ Mount Holyoke College',
 		hobbies: 'cooking, Chinese dramas, dogs',
-		avatar: 'https://media.licdn.com/dms/image/D4E03AQHWz6PWjdvY3w/profile-displayphoto-shrink_800_800/0/1702911782868?e=1717027200&v=beta&t=cDK2ZY8OBmUrRA6EWH7AABECwR3z-jE78dVenfFTa9I',
+		avatar: 'https://res.cloudinary.com/khoa165/image/upload/v1711769961/viettech/ngocanh.jpg',
 		term: [
 			{
 				year: 2024,
