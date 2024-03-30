@@ -523,7 +523,8 @@ export const mentorshipTeam = [
 		name: 'Ngoc Anh',
 		title: 'Student @ Mount Holyoke College',
 		hobbies: 'cooking, Chinese dramas, dogs',
-		avatar: 'https://res.cloudinary.com/khoa165/image/upload/v1711769961/viettech/ngocanh.jpg',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711769961/viettech/ngocanh.jpg',
 		term: [
 			{
 				year: 2024,
@@ -531,7 +532,7 @@ export const mentorshipTeam = [
 				role: 'Mentee',
 			},
 		],
-	}
+	},
 	{
 		name: 'Thang Nguyen',
 		title: 'Student @ Toronto Metropolitan University',
