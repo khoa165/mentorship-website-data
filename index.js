@@ -576,6 +576,20 @@ export const mentorshipTeam = [
     ],
   },
   {
+    name: 'Vy Nguyen',
+    title: 'Student @ Catholic University of America',
+    hobbies: 'music, cooking, travel',
+    avatar:
+      'https://res.cloudinary.com/khoa165/image/upload/v1711778695/viettech/vynguyen.jpg',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+      },
+    ],
+  },
+  {
     name: 'Quy Nguyen',
     title: 'Student @ University of Windsor',
     hobbies: 'sports, soccer games, movies',
