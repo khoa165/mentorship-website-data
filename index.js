@@ -124,7 +124,7 @@ export const mentorshipTeam = [
 				year: 2023,
 				keyword: 'mentee',
 				role: 'Mentee',
-				offers: ['Amazon', 'Wayfair', 'BNY Mellon'],
+				offers: ['LinkedIn', 'Amazon', 'Wayfair', 'BNY Mellon'],
 			},
 			{
 				year: 2024,
@@ -224,7 +224,7 @@ export const mentorshipTeam = [
 	{
 		name: 'Phuong Cao',
 		title: '[Incoming] SWE Intern @ Adobe',
-		hobbies: 'pekking duck, Duc Anh, music',
+		hobbies: 'pekking duck, anime, music',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/minhphuong.jpg',
 		term: [
