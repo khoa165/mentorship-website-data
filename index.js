@@ -594,7 +594,7 @@ export const mentorshipTeam = [
 		title: 'Student @ Fordham University',
 		hobbies: 'walking, bike riding, road trip',
 		avatar:
-			'https://www.linkedin.com/in/hennessy-nguyen-18a8a8163/',
+			'https://res.cloudinary.com/khoa165/image/upload/v1711768766/viettech/haianh.jpg',
 		term: [
 			{
 				year: 2024,
