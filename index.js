@@ -673,4 +673,18 @@ export const mentorshipTeam = [
       },
     ],
   },
+  {
+    name: 'Linh Nguyen',
+    title: 'Student @ Tufts University',
+    hobbies: 'food, music, roller coaster',
+    avatar:
+      'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/placeholder.jpg',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+      }
+    ]
+  }
 ]
