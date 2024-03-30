@@ -715,4 +715,18 @@ export const mentorshipTeam = [
       },
     ],
   },
+  {
+    name: 'Vy Tran',
+    title: 'Student @ Bucknell University',
+    hobbies: 'soccer, mountains, dogs',
+    avatar:
+      'https://res.cloudinary.com/khoa165/image/upload/v1711832950/viettech/vytran.jpg',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+      },
+    ],
+  },
 ]
