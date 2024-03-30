@@ -642,9 +642,9 @@ export const mentorshipTeam = [
         year: 2024,
         keyword: 'mentee',
         role: 'Mentee',
-      }
-    ]
-  }
+      },
+    ],
+  },
   {
     name: 'Hung Ngo',
     title: 'Student @ University of Massachusetts Amherst',
