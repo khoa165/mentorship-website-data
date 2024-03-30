@@ -687,4 +687,18 @@ export const mentorshipTeam = [
       },
     ],
   },
+  {
+    name: 'Linh Hoang',
+    title: 'Student @ Dickinson College',
+    hobbies: 'music, dumb tv shows, sunbathing',
+    avatar:
+      'https://res.cloudinary.com/khoa165/image/upload/v1711823122/viettech/khanhlinh.jpg',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+      },
+    ],
+  },
 ]
