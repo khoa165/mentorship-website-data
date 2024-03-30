@@ -692,7 +692,7 @@ export const mentorshipTeam = [
     title: 'Student @ Dickinson College',
     hobbies: 'music, dumb tv shows, sunbathing',
     avatar:
-      'https://drive.google.com/file/d/1gnNIcSOR0YJ10_VQHkUefzK8TfX9UZ53/view?usp=sharing',
+      'https://res.cloudinary.com/khoa165/image/upload/v1711823122/viettech/khanhlinh.jpg',
     term: [
       {
         year: 2024,
