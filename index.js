@@ -603,4 +603,18 @@ export const mentorshipTeam = [
 			},
 		],
 	},
+	{
+		name: 'Vy Nguyen',
+		title: 'Student @ Catholic University of America',
+		hobbies: 'Music, cooking, travel',
+		avatar:
+			'https://drive.google.com/file/d/1OxDKkXQtmnqiWUw8SZg50gYTtSL8pk4K/view?usp=sharing',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
 ];
