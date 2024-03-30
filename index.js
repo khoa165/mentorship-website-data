@@ -576,11 +576,39 @@ export const mentorshipTeam = [
     ],
   },
   {
+    name: 'Vy Nguyen',
+    title: 'Student @ Catholic University of America',
+    hobbies: 'music, cooking, travel',
+    avatar:
+      'https://res.cloudinary.com/khoa165/image/upload/v1711778695/viettech/vynguyen.jpg',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+      },
+    ],
+  },
+  {
     name: 'Quy Nguyen',
     title: 'Student @ University of Windsor',
     hobbies: 'sports, soccer games, movies',
     avatar:
       'https://res.cloudinary.com/khoa165/image/upload/v1711341359/viettech/quy.jpg',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+      },
+    ],
+  },
+  {
+    name: 'Hai Anh',
+    title: 'Student @ Fordham University',
+    hobbies: 'walking, bike riding, road trip',
+    avatar:
+      'https://res.cloudinary.com/khoa165/image/upload/v1711768766/viettech/haianh.jpg',
     term: [
       {
         year: 2024,
@@ -645,4 +673,4 @@ export const mentorshipTeam = [
       },
     ],
   },
-];
+]
