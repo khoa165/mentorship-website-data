@@ -632,6 +632,20 @@ export const mentorshipTeam = [
     ],
   },
   {
+    name: 'Linh Nguyen',
+    title: 'Student @ Tufts University',
+    hobbies: 'food, music, roller coaster',
+    avatar:
+      'https://res.cloudinary.com/khoa165/image/upload/v1711817532/viettech/linhnguyen.jpg',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+      }
+    ]
+  }
+  {
     name: 'Hung Ngo',
     title: 'Student @ University of Massachusetts Amherst',
     hobbies: 'keyboard, music, League',
@@ -673,18 +687,4 @@ export const mentorshipTeam = [
       },
     ],
   },
-  {
-    name: 'Linh Nguyen',
-    title: 'Student @ Tufts University',
-    hobbies: 'food, music, roller coaster',
-    avatar:
-      'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/placeholder.jpg',
-    term: [
-      {
-        year: 2024,
-        keyword: 'mentee',
-        role: 'Mentee',
-      }
-    ]
-  }
 ]
