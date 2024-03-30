@@ -162,6 +162,26 @@ export const mentorshipTeam = [
 		],
 	},
 	{
+		name: 'Phuoc Ong',
+		title: '[Incoming] SWE Intern @ Meta',
+		hobbies: 'gym, food, dog',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/phuoc.jpg',
+		term: [
+			{
+				year: 2023,
+				keyword: 'mentee',
+				role: 'Mentee',
+				offers: ['Meta', 'ServiceNow', 'Niantic'],
+			},
+			{
+				year: 2024,
+				keyword: 'mentor',
+				role: 'Mentor',
+			},
+		],
+	},
+	{
 		name: 'Robin Hoang',
 		title: '[Incoming] SWE Intern @ Microsoft',
 		hobbies: 'solo trip, pole dance, beach',
@@ -173,6 +193,46 @@ export const mentorshipTeam = [
 				keyword: 'mentee',
 				role: 'Mentee',
 				offers: ['Microsoft', 'MongoDB', 'Bank of America'],
+			},
+			{
+				year: 2024,
+				keyword: 'mentor',
+				role: 'Mentor',
+			},
+		],
+	},
+	{
+		name: 'Quan Le',
+		title: '[Incoming] SWE Intern @ Meta',
+		hobbies: 'cosplay, board games, music',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/minhquan.jpg',
+		term: [
+			{
+				year: 2023,
+				keyword: 'mentee',
+				role: 'Mentee',
+				offers: ['Meta', 'ServiceNow', 'Matson Money'],
+			},
+			{
+				year: 2024,
+				keyword: 'mentor',
+				role: 'Mentor',
+			},
+		],
+	},
+	{
+		name: 'Phuong Cao',
+		title: '[Incoming] SWE Intern @ Adobe',
+		hobbies: 'pekking duck, Duc Anh, music',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/minhphuong.jpg',
+		term: [
+			{
+				year: 2023,
+				keyword: 'mentee',
+				role: 'Mentee',
+				offers: ['Adobe', 'Amazon'],
 			},
 			{
 				year: 2024,
@@ -242,46 +302,6 @@ export const mentorshipTeam = [
 		],
 	},
 	{
-		name: 'Phuong Cao',
-		title: '[Incoming] SWE Intern @ Adobe',
-		hobbies: 'pekking duck, Duc Anh, music',
-		avatar:
-			'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/minhphuong.jpg',
-		term: [
-			{
-				year: 2023,
-				keyword: 'mentee',
-				role: 'Mentee',
-				offers: ['Adobe', 'Amazon'],
-			},
-			{
-				year: 2024,
-				keyword: 'mentor',
-				role: 'Mentor',
-			},
-		],
-	},
-	{
-		name: 'Phuoc Ong',
-		title: '[Incoming] SWE Intern @ Meta',
-		hobbies: 'gym, food, dog',
-		avatar:
-			'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/phuoc.jpg',
-		term: [
-			{
-				year: 2023,
-				keyword: 'mentee',
-				role: 'Mentee',
-				offers: ['Meta', 'ServiceNow', 'Niantic'],
-			},
-			{
-				year: 2024,
-				keyword: 'mentor',
-				role: 'Mentor',
-			},
-		],
-	},
-	{
 		name: 'Hieu Vuong',
 		title: 'SWE Intern @ SAP',
 		hobbies: 'karaoke, beauty salon, travel',
@@ -313,26 +333,6 @@ export const mentorshipTeam = [
 				keyword: 'mentee',
 				role: 'Mentee',
 				offers: ['GoDaddy'],
-			},
-			{
-				year: 2024,
-				keyword: 'mentor',
-				role: 'Mentor',
-			},
-		],
-	},
-	{
-		name: 'Quan Le',
-		title: '[Incoming] SWE Intern @ Meta',
-		hobbies: 'cosplay, board games, music',
-		avatar:
-			'https://res.cloudinary.com/khoa165/image/upload/v1711083621/viettech/minhquan.jpg',
-		term: [
-			{
-				year: 2023,
-				keyword: 'mentee',
-				role: 'Mentee',
-				offers: ['Meta', 'ServiceNow', 'Matson Money'],
 			},
 			{
 				year: 2024,
