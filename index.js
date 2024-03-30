@@ -548,6 +548,20 @@ export const mentorshipTeam = [
 		],
 	},
 	{
+		name: 'Quynh Tran',
+		title: 'Student @ DePauw University',
+		hobbies: 'cats, K-pop, travel',
+		avatar:
+			'https://res.cloudinary.com/khoa165/image/upload/v1711671347/viettech/quynh.jpg',
+		term: [
+			{
+				year: 2024,
+				keyword: 'mentee',
+				role: 'Mentee',
+			},
+		],
+	},
+	{
 		name: 'Nam Nguyen',
 		title: 'Student @ Michigan State University',
 		hobbies: 'soccer, One Piece, piano',
@@ -595,20 +609,6 @@ export const mentorshipTeam = [
 		hobbies: 'keyboard, music, League',
 		avatar:
 			'https://res.cloudinary.com/khoa165/image/upload/v1711685228/viettech/hung.jpg',
-		term: [
-			{
-				year: 2024,
-				keyword: 'mentee',
-				role: 'Mentee',
-			},
-		],
-	},
-	{
-		name: 'Quynh Tran',
-		title: 'Student @ DePauw University',
-		hobbies: 'cats, K-pop, travel',
-		avatar:
-			'https://res.cloudinary.com/khoa165/image/upload/v1711671347/viettech/quynh.jpg',
 		term: [
 			{
 				year: 2024,
