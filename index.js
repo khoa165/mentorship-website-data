@@ -660,6 +660,20 @@ export const mentorshipTeam = [
     ],
   },
   {
+    name: 'Linh Hoang',
+    title: 'Student @ Dickinson College',
+    hobbies: 'music, dumb tv shows, sunbathing',
+    avatar:
+      'https://res.cloudinary.com/khoa165/image/upload/v1711823122/viettech/khanhlinh.jpg',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+      },
+    ],
+  },
+  {
     name: 'Kha Tran',
     title: 'Student @ University of Manitoba',
     hobbies: 'coding, reading, gaming',
@@ -693,20 +707,6 @@ export const mentorshipTeam = [
     hobbies: 'fencing, table tennis, travelling',
     avatar:
       'https://res.cloudinary.com/khoa165/image/upload/v1711819446/viettech/vien.jpg',
-    term: [
-      {
-        year: 2024,
-        keyword: 'mentee',
-        role: 'Mentee',
-      },
-    ],
-  },
-  {
-    name: 'Linh Hoang',
-    title: 'Student @ Dickinson College',
-    hobbies: 'music, dumb tv shows, sunbathing',
-    avatar:
-      'https://res.cloudinary.com/khoa165/image/upload/v1711823122/viettech/khanhlinh.jpg',
     term: [
       {
         year: 2024,
