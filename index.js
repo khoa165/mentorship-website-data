@@ -808,7 +808,7 @@ export const mentorshipTeam = {
     title: 'Student @ Hobart and William Smith Colleges',
     hobbies: 'draw, sleep, axolotl',
     avatar:
-      'https://drive.google.com/file/d/1PNcVjP0bCi0IORUDy-VXamPnWJ7BymCh/view?usp=sharing',
+      'https://res.cloudinary.com/khoa165/image/upload/v1711839128/viettech/tranglinh.jpg',
     term: [
       {
         year: 2024,
