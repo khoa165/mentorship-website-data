@@ -525,7 +525,7 @@ export const mentorshipTeam = [
                 title: 'Student @ DePauw University',
                 hobbies: 'cats, K-pop, travel',
                 avatar:
-                        'https://drive.google.com/file/d/1aEGm3N0dFqTYSbEty1ZSVpetgDAgqzlI/view',
+                        'https://res.cloudinary.com/khoa165/image/upload/v1711671347/viettech/quynh.jpg:',
                 term: [
                         {
                                 year: 2024,
