@@ -659,4 +659,18 @@ export const mentorshipTeam = [
       },
     ],
   },
+  {
+    name: 'Phan Anh',
+    title: 'Student @ DePauw University',
+    hobbies: 'soccer, running, coding',
+    avatar:
+      'https://res.cloudinary.com/khoa165/image/upload/v1711815305/viettech/phananh.jpg',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+      },
+    ],
+  },
 ]
