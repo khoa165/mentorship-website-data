@@ -803,4 +803,20 @@ export const mentorshipTeam = {
       },
     ],
   },
+  linhtran: {
+    name: 'Trang Linh',
+    title: 'Student @ Hobart and William Smith Colleges',
+    hobbies: 'draw, sleep, axolotl',
+    avatar:
+      'https://drive.google.com/file/d/1PNcVjP0bCi0IORUDy-VXamPnWJ7BymCh/view?usp=sharing',
+    term: [
+      {
+        year: 2024,
+        keyword: 'mentee',
+        role: 'Mentee',
+        mentors: ['ngocdoan'],
+        projectAdvisors: ['phuocong'],
+      },
+    ],
+  },
 }
