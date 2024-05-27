@@ -124,7 +124,24 @@ export const mentorshipTeam = {
         year: 2023,
         keyword: 'mentee',
         role: 'Mentee',
-        offers: ['LinkedIn', 'Amazon', 'Wayfair', 'BNY Mellon'],
+        offers: [
+          {
+            name: 'LinkedIn',
+            type: 'Internship',
+          },
+          {
+            name: 'Amazon',
+            type: 'Internship',
+          },
+          {
+            name: 'Wayfair',
+            type: 'Internship',
+          },
+          {
+            name: 'BNY Mellon',
+            type: 'Internship',
+          },
+        ],
         mentors: ['kevinluu'],
         projectAdvisors: ['khoale'],
       },
@@ -174,7 +191,20 @@ export const mentorshipTeam = {
         year: 2023,
         keyword: 'mentee',
         role: 'Mentee',
-        offers: ['Meta', 'ServiceNow', 'Niantic'],
+        offers: [
+          {
+            name: 'Meta',
+            type: 'Internship',
+          },
+          {
+            name: 'ServiceNow',
+            type: 'Internship',
+          },
+          {
+            name: 'Niantic',
+            type: 'Internship',
+          },
+        ],
         mentors: ['nguyenvu'],
         projectAdvisors: ['khoale'],
       },
@@ -196,7 +226,20 @@ export const mentorshipTeam = {
         year: 2023,
         keyword: 'mentee',
         role: 'Mentee',
-        offers: ['Microsoft', 'MongoDB', 'Bank of America'],
+        offers: [
+          {
+            name: 'Microsoft',
+            type: 'Internship',
+          },
+          {
+            name: 'MongoDB',
+            type: 'Internship',
+          },
+          {
+            name: 'Bank of America',
+            type: 'Internship',
+          },
+        ],
         mentors: ['khoale', 'thuanh'],
         projectAdvisors: ['khoale'],
       },
@@ -218,7 +261,20 @@ export const mentorshipTeam = {
         year: 2023,
         keyword: 'mentee',
         role: 'Mentee',
-        offers: ['Meta', 'ServiceNow', 'Matson Money'],
+        offers: [
+          {
+            name: 'Meta',
+            type: 'Internship',
+          },
+          {
+            name: 'ServiceNow',
+            type: 'Internship',
+          },
+          {
+            name: 'Matson Money',
+            type: 'Internship',
+          },
+        ],
         mentors: ['chanle'],
         projectAdvisors: ['khoale'],
       },
@@ -240,7 +296,16 @@ export const mentorshipTeam = {
         year: 2023,
         keyword: 'mentee',
         role: 'Mentee',
-        offers: ['Adobe', 'Amazon'],
+        offers: [
+          {
+            name: 'Adobe',
+            type: 'Internship',
+          },
+          {
+            name: 'Amazon',
+            type: 'Internship',
+          },
+        ],
         mentors: ['kevinluu'],
         projectAdvisors: ['khoale'],
       },
@@ -262,7 +327,16 @@ export const mentorshipTeam = {
         year: 2023,
         keyword: 'mentee',
         role: 'Mentee',
-        offers: ['LinkedIn', 'Proofpoint'],
+        offers: [
+          {
+            name: 'LinkedIn',
+            type: 'Internship',
+          },
+          {
+            name: 'Proofpoint',
+            type: 'Internship',
+          },
+        ],
         mentors: ['khoale'],
         projectAdvisors: ['khoale'],
       },
@@ -284,7 +358,16 @@ export const mentorshipTeam = {
         year: 2023,
         keyword: 'mentee',
         role: 'Mentee',
-        offers: ['DoorDash', 'Wayfair'],
+        offers: [
+          {
+            name: 'DoorDash',
+            type: 'Internship',
+          },
+          {
+            name: 'Wayfair',
+            type: 'Internship',
+          },
+        ],
         mentors: ['nguyenvu'],
         projectAdvisors: ['khoale'],
       },
@@ -306,7 +389,16 @@ export const mentorshipTeam = {
         year: 2023,
         keyword: 'mentee',
         role: 'Mentee',
-        offers: ['ServiceNow', 'Lilly'],
+        offers: [
+          {
+            name: 'ServiceNow',
+            type: 'Internship',
+          },
+          {
+            name: 'Lilly',
+            type: 'Internship',
+          },
+        ],
         mentors: ['huyanh'],
         projectAdvisors: ['khoale'],
       },
@@ -328,7 +420,12 @@ export const mentorshipTeam = {
         year: 2023,
         keyword: 'mentee',
         role: 'Mentee',
-        offers: ['SAP'],
+        offers: [
+          {
+            name: 'SAP',
+            type: 'Internship',
+          },
+        ],
         mentors: ['nguyenvu', 'thuanh'],
         projectAdvisors: ['khoale'],
       },
@@ -350,7 +447,16 @@ export const mentorshipTeam = {
         year: 2023,
         keyword: 'mentee',
         role: 'Mentee',
-        offers: ['GoDaddy'],
+        offers: [
+          {
+            name: 'GoDaddy',
+            type: 'Internship',
+          },
+          {
+            name: 'Wayfair',
+            type: 'New Grad',
+          },
+        ],
         mentors: ['khoale'],
         projectAdvisors: ['khoale'],
       },
